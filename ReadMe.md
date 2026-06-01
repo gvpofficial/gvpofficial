@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hello, world! 🌎 I'm Gupthan Vishnu Prasad 👋
 🎨 Designer by trade, programmer by passion.<br>💻 6+ years of experience in design, development, and technology.<br>✨ Turning imagination into impactful digital experiences.<br>🚀 Always exploring, building, and learning.
 
 

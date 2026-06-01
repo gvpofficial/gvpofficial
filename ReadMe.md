@@ -1,3 +1,4 @@
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 # Hello, world! 🌎 I'm Gupthan Vishnu Prasad 👋
 🎨 Designer by trade, programmer by passion.<br>💻 6+ years of experience in design, development, and technology.<br>✨ Turning imagination into impactful digital experiences.<br>🚀 Always exploring, building, and learning.
 

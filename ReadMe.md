@@ -33,8 +33,8 @@
 ![](https://streak-stats.demolab.com/?user=gvpofficial&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=gvpofficial&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## ☕ You can buy me cofee:
-[![Buy-Me-Coffee]()](https://gvpofficial.vercel.app/buymecoffee.html)
+## 💰 You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://gvpofficial.vercel.app/buymecoffee.html)
 
 ## 👁️ Github Profile Views:
 <img src="https://komarev.com/ghpvc/?username=gvpofficial&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
